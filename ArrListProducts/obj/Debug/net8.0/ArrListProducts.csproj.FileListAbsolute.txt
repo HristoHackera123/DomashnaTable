@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\bin\Debug\net8.0\ArrListProducts.exe
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\bin\Debug\net8.0\ArrListProducts.deps.json
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\bin\Debug\net8.0\ArrListProducts.runtimeconfig.json
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\bin\Debug\net8.0\ArrListProducts.dll
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\bin\Debug\net8.0\ArrListProducts.pdb
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\ArrListProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\ArrListProducts.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\ArrListProducts.AssemblyInfo.cs
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\ArrListProducts.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\ArrListProducts.dll
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\refint\ArrListProducts.dll
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\ArrListProducts.pdb
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\ArrListProducts.genruntimeconfig.cache
+C:\Users\encho\source\repos\ArrListProducts\ArrListProducts\obj\Debug\net8.0\ref\ArrListProducts.dll
